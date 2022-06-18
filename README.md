@@ -1,8 +1,8 @@
 <div align=left><h1>😄 Hi, there </h1></div>
 
-<div align=align>
+<div align=center>
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Danielkim3&show_icons=true&theme=radical) &nbsp;&nbsp;
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Danielkim3&show_icons=true&theme=radical) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkim3&layout=compact&theme=dracula)](https://github.com/metleeha)
   
 ### 🌱 I’m currently learning Python
