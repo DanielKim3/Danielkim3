@@ -1,4 +1,18 @@
-### Hi there 👋
+<div align=left><h1>😄 Hi, there </h1></div>
+
+<div align=center>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Danielkim3&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielkim3&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+<hr>
+
+
+
+
+</div>
+
 
 <!--
 **DanielKim3/Danielkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
