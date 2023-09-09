@@ -2,7 +2,7 @@
 
 
 
-<!-- ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Danielkim3&show_icons=true&theme=radical) -->
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Danielkim3&show_icons=true&theme=radical)
 
   
 
